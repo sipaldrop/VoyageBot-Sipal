@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Sensitive Data (NEVER COMMIT!)
+accounts.json
+wallet.json
+tokens.json
+database.json
+
+# Session Data
+session/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Development Files (HAR captures)
+*.har

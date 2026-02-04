@@ -1,0 +1,10 @@
+[
+    {
+        "Token_Bearer": "YOUR_BEARER_TOKEN_HERE",
+        "Proxy": ""
+    },
+    {
+        "Token_Bearer": "ANOTHER_ACCOUNT_TOKEN",
+        "Proxy": "http://user:pass@ip:port"
+    }
+]
