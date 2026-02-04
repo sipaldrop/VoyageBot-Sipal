@@ -46,8 +46,8 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/sipal-airdrop/sipal-voyage.git
-cd sipal-voyage
+git clone https://github.com/sipaldrop/VoyageBot-Sipal.git
+cd VoyageBot-Sipal
 
 # 2. Install dependencies
 npm install
